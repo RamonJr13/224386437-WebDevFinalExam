@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .body, header, nav, footer, ul, li{
     margin: 0;
 }
@@ -28,3 +29,35 @@ header{
     padding: 20px;
     text-align: center;
 }   
+=======
+body, header, nav, footeru, ul, li{
+    margin: 0;
+}
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.nav ul{
+    list-style-type: none;
+    display: flex;
+}
+.nav ul li{
+    margin: 0 10px;
+}
+.nav ul li a{
+    color: turquoise;
+    text-decoration: none;
+}
+.footer {
+    background-color: blueviolet;
+    color: aqua;
+    padding: 20px;
+    text-align: center;
+}   
+>>>>>>> 3d265c8f60b5904d5ab800caf2d39d10c755b4d7
